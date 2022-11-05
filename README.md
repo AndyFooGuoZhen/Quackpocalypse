@@ -8,4 +8,4 @@ Implemented Socket.io websocket library to add chat functionalities to the app
 
 Developed user profile editing system, using firebase firestore database for CRUD operations
 
-Link to demo : https://www.youtube.com/watch?v=Cqm9fOjT4_U
+
